@@ -131,7 +131,7 @@ footer {
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: #0a5620;
+  background-color: #560a0aff;
   color: #fff;
   padding: 1rem;
   margin: 0;
@@ -161,7 +161,7 @@ a {
 
 button {
   padding: 10px;
-  background-color: #005f8b;
+  background-color: #008b43ff;
   color: #fff;
   border: none;
   border-radius: 5px;
